@@ -1,0 +1,19 @@
+Object Detection Metrics
+Average Precision (AP), Precision and Recall per class:
+
+Class: car
+AP: 100.00%
+Precision: ['1.00', '1.00', '1.00', '1.00', '1.00']
+Recall: ['0.20', '0.40', '0.60', '0.80', '1.00']
+total_TP: 5.0
+total_FP: 0.0
+
+Class: person
+AP: 100.00%
+Precision: ['1.00']
+Recall: ['1.00']
+total_TP: 1.0
+total_FP: 0.0
+
+
+mAP: 100.00%

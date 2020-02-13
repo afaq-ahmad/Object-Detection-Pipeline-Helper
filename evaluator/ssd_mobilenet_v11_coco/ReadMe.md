@@ -1,0 +1,1 @@
+Place the frozen  model here e.g.(frozen_inference_graph.pb)
